@@ -16,7 +16,7 @@ class LinkedlistOperations {
         }
     }
  
-    /*Function to add a new Node*/
+    /*Function to add a new Node with head first*/
     public void pushNode(int data)
     {
         Node new_node = new Node(data);
