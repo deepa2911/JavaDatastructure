@@ -1,6 +1,6 @@
 package linkedlistprograms;
 
-
+//hotfixed are done
 class LinkedlistOperations {
  
     Node head;
